@@ -1,3 +1,7 @@
 Backend/node_modules
 Frontend/node_modules
 Frontend/build
+Frontend/.firebase
+Frontend/.firebaserc
+Frontend/.gitignore
+Frontend/.firebase.json
